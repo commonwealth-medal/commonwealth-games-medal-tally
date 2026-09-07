@@ -1,0 +1,28 @@
+# NaayMedals Configuration
+
+medals:
+  gold:
+    name: "Ouro"
+    icon: "§e★"
+    description: "Medalha de Ouro"
+    xp: 100
+  silver:
+    name: "Prata"
+    icon: "§7★★"
+    description: "Medalha de Prata"
+    xp: 50
+  bronze:
+    name: "Bronze"
+    icon: "§c★★"
+    description: "Medalha de Bronze"
+    xp: 25
+  killer:
+    name: "Assassino"
+    icon: "§4†"
+    description: "Mate 100 jogadores"
+    xp: 200
+  survivor:
+    name: "Sobrevivente"
+    icon: "§2✚"
+    description: "Sobreviva a 50 jogos"
+    xp: 150
